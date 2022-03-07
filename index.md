@@ -1,6 +1,6 @@
 ## Welcome to Corey Farmer's Programming Portfolio
 
-I've also have an [art portfolio](https://www.artstation.com/coreyfarmer).
+I also have an [art portfolio](https://www.artstation.com/coreyfarmer).
 
 ### Code Samples
 
