@@ -1,10 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Corey Farmer's Programming Portfolio
 
-You can use the [editor on GitHub](https://github.com/MagnusGrave/MagnusGrave.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I've also have an [art portfolio](https://www.artstation.com/coreyfarmer).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Code Samples
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
